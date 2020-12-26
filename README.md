@@ -12,7 +12,7 @@ The Nobel Prize is perhaps the world's most well known scientific award. Every y
 
 Well, let's find out! What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice?...
 
-## Skills:
+# Skills:
 * Data Manipulation
 * Data Visualization
 * Importing & Cleaning Data
